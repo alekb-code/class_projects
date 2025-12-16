@@ -6,3 +6,5 @@ Shout out to Professor Ilya Mickelson as well as my lab partners AJ Klein and Ma
 ### Useless Box
 
 ## Honors Engineering Analysis I (Gen_Eng 206-1)
+
+## Honors Calculus for Engineers I (ES_APPM 252-1)
