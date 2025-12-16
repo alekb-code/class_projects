@@ -21,13 +21,13 @@ My main contribution to the project was creating two simple circuits to move the
 ##### Linear Actuator Circuit
 <img src="Design%20Thinking%20and%20Communication%20I%20(DTC%20I)/actuator_circuit.png" 
      alt="Actuator Circuit Diagram" 
-     width="500"/><br>
+     width="300"/><br>
 To wire up the linear actuator, I used a DPDT foot pedal that allowed operation of the device in both directions.
 
 ##### Servo Circuit
 <img src="Design%20Thinking%20and%20Communication%20I%20(DTC%20I)/Servo_circuit.png" 
      alt="Servo Circuit Diagram" 
-     width="500"/><br>
+     width="300"/><br>
 To operate the servos, I used an ESP32 microcontroller loaded with [some code](code/servo_control.ino) that took in inputs from two switches (foot pedals we bought) and then wrote positions to the two servos.
 
 ## Honors Engineering Analysis I (Gen_Eng 206-1)
