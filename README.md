@@ -5,10 +5,10 @@ In order of significance/coolness
 Shout out to my lab partners AJ Klein and Max Maiers.
 
 ### Useless Box
-We built a useless box, which turns itself off when its turned on. We then reconstructed this box to operate with an ESP32 microcontroller along with code to operate it. Finally, we edited the code to give the box some "personality." Images of the circuit as well as the .ino code files can be found [here](Intro%20to%20Electrical%20Engineering%20(Elec_Eng%20202)/UselessBox).
+We built a useless box, which turns itself off when its turned on. We then reconstructed this box to operate with an ESP32 microcontroller along with [code](Intro%20to%20Electrical%20Engineering%20(Elec_Eng%20202)/UselessBox/Code/UselessBoxNormalCode.ino) to operate it. Finally, we edited the code to give the box some "personality." Images of the circuit as well as the .ino code files can be found [here](Intro%20to%20Electrical%20Engineering%20(Elec_Eng%20202)/UselessBox).
 
 ### LED Matrix
-We first built a simple 3x3 LED matrix that could be controlled by shift registers. After that, we learned about filtering and built our own filter circuit with four bands. We then combined this filter circuit with a PCB we soldered (PCB design credit to Prof. Ilya Mickelson) to make an audio spectrum vizualizer. Finally, used a larger prebuilt LED matrix and microphone to apply these topics on a larger scale. Images and code of the project throughout each step can be found [here](Intro%20to%20Electrical%20Engineering%20(Elec_Eng%20202)/LEDMatrix).
+We first built a simple 3x3 LED matrix that could be controlled by shift registers. Like the Useless Box, we then redid the old matrix with an ESP32 and relevant code incorporated into it. After that, we learned about filtering and built our own filter circuit with four bands. We then combined this filter circuit with a PCB we soldered (PCB design credit to Prof. Ilya Mickelson) to make an audio spectrum vizualizer. Finally, used a larger prebuilt LED matrix and microphone to apply these topics on a larger scale. Images and code of the project throughout each step can be found [here](Intro%20to%20Electrical%20Engineering%20(Elec_Eng%20202)/LEDMatrix).
 
 ## Design Thinking and Communication I (DTC I)
 ### SPICALIGN
